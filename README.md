@@ -16,11 +16,11 @@ And tools I use: <br/>
 
 <img src="https://img.shields.io/badge/phpstorm-7B68EE?style=for-the-badge&logo=phpstorm&logoColor=fff"/> <img src="https://img.shields.io/badge/photoshop-7B68EE?style=for-the-badge&logo=Adobe Photoshop&logoColor=fff"/> <img src="https://img.shields.io/badge/Figma-7B68EE?style=for-the-badge&logo=Figma&logoColor=fff"/>
 </br></br>
-I’m currently learning:</br>
-</br><img src="https://img.shields.io/badge/jest-7B68EE?style=for-the-badge&logo=jest&logoColor=fff"/> <img src="https://img.shields.io/badge/Testing Library-7B68EE?style=for-the-badge&logo=Testing Library&logoColor=fff"/>
+I’m currently learning:
+</br></br><img src="https://img.shields.io/badge/jest-7B68EE?style=for-the-badge&logo=jest&logoColor=fff"/> <img src="https://img.shields.io/badge/Testing Library-7B68EE?style=for-the-badge&logo=Testing Library&logoColor=fff"/>
 </br>
-
-How to reach me: <br/>
-<a href="arkadiy.shefer@gmail.com "><img src="https://img.shields.io/badge/Gmail-7B68EE?style=for-the-badge&logo=Gmail&logoColor=fff"/></a> </br>
-<a href="https://www.linkedin.com/in/arkadii-shefer-643434262/ "><img src="https://img.shields.io/badge/LinkedIn-7B68EE?style=for-the-badge&logo=LinkedIn&logoColor=fff"/>  </a></br>
-<img src="https://img.shields.io/badge/Telegram-7B68EE?style=for-the-badge&logo=Telegram&logoColor=fff"/>https://t.me/sssshefer</br>
+</br>
+How to reach me: </br></br>
+<a href="arkadiy.shefer@gmail.com "><img src="https://img.shields.io/badge/Gmail-7B68EE?style=for-the-badge&logo=Gmail&logoColor=fff"/></a> 
+<a href="https://www.linkedin.com/in/arkadii-shefer-643434262/ "><img src="https://img.shields.io/badge/LinkedIn-7B68EE?style=for-the-badge&logo=LinkedIn&logoColor=fff"/>  </a>
+<a href="https://t.me/sssshefer"><img src="https://img.shields.io/badge/Telegram-7B68EE?style=for-the-badge&logo=Telegram&logoColor=fff"/></a></br>
