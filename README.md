@@ -12,7 +12,7 @@ Here is my techology stack:</br>
 
 <img src="https://img.shields.io/badge/Git-7B68EE?style=for-the-badge&logo=Git&logoColor=fff"/> <img src="https://img.shields.io/badge/GitHub-7B68EE?style=for-the-badge&logo=GitHub&logoColor=fff"/><br/><br/>
 
-And tools I use: <br/>
+Tools I use: <br/>
 
 <img src="https://img.shields.io/badge/phpstorm-7B68EE?style=for-the-badge&logo=phpstorm&logoColor=fff"/> <img src="https://img.shields.io/badge/photoshop-7B68EE?style=for-the-badge&logo=Adobe Photoshop&logoColor=fff"/> <img src="https://img.shields.io/badge/Figma-7B68EE?style=for-the-badge&logo=Figma&logoColor=fff"/>
 </br></br>
