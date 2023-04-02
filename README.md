@@ -21,6 +21,6 @@ I’m currently learning:
 </br>
 </br>
 How to reach me: </br></br>
-<a href="arkadiy.shefer@gmail.com "><img src="https://img.shields.io/badge/Gmail-7B68EE?style=for-the-badge&logo=Gmail&logoColor=fff"/></a> 
-<a href="https://www.linkedin.com/in/arkadii-shefer-643434262/ "><img src="https://img.shields.io/badge/LinkedIn-7B68EE?style=for-the-badge&logo=LinkedIn&logoColor=fff"/>  </a>
-<a href="https://t.me/sssshefer"><img src="https://img.shields.io/badge/Telegram-7B68EE?style=for-the-badge&logo=Telegram&logoColor=fff"/></a></br>
+<a href="arkadiy.shefer@gmail.com " target=”_blank”><img src="https://img.shields.io/badge/Gmail-7B68EE?style=for-the-badge&logo=Gmail&logoColor=fff"/></a> 
+<a href="https://www.linkedin.com/in/arkadii-shefer-643434262/ " target=”_blank”><img src="https://img.shields.io/badge/LinkedIn-7B68EE?style=for-the-badge&logo=LinkedIn&logoColor=fff"/>  </a>
+<a href="https://t.me/sssshefer" target=”_blank”><img src="https://img.shields.io/badge/Telegram-7B68EE?style=for-the-badge&logo=Telegram&logoColor=fff"/></a></br>
