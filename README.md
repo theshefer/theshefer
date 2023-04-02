@@ -3,8 +3,7 @@
 
 ### Here is my techology stack:</br>
 </br>
-<img src="https://img.shields.io/badge/Html-7B68EE?style=for-the-badge&logo=html5&logoColor=fff"/> <img src="https://img.shields.io/badge/BEM-7B68EE?style=for-the-badge&logo=Bem&logoColor=fff"/>
-<img src="https://img.shields.io/badge/css-7B68EE?style=for-the-badge&logo=css3&logoColor=fff"/> <img src="https://img.shields.io/badge/sass-7B68EE?style=for-the-badge&logo=sass&logoColor=fff"/> <img src="https://img.shields.io/badge/Bootstrap-7B68EE?style=for-the-badge&logo=Bootstrap&logoColor=fff"/> </br>
+<img src="https://img.shields.io/badge/Html-7B68EE?style=for-the-badge&logo=html5&logoColor=fff"/> <img src="https://img.shields.io/badge/BEM-7B68EE?style=for-the-badge&logo=Bem&logoColor=fff"/> <img src="https://img.shields.io/badge/css-7B68EE?style=for-the-badge&logo=css3&logoColor=fff"/> <img src="https://img.shields.io/badge/sass-7B68EE?style=for-the-badge&logo=sass&logoColor=fff"/> <img src="https://img.shields.io/badge/Bootstrap-7B68EE?style=for-the-badge&logo=Bootstrap&logoColor=fff"/> </br>
 
 <img src="https://img.shields.io/badge/js-7B68EE?style=for-the-badge&logo=JavaScript&logoColor=fff"/> <img src="https://img.shields.io/badge/react-7B68EE?style=for-the-badge&logo=React&logoColor=fff"/> <img src="https://img.shields.io/badge/redux-7B68EE?style=for-the-badge&logo=Redux&logoColor=fff"/> <img src="https://img.shields.io/badge/TypeScript-7B68EE?style=for-the-badge&logo=TypeScript&logoColor=fff"/> </br>
 
