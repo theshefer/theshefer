@@ -11,14 +11,14 @@ Also doing my Bachelors in <b>Computer Science & Engineering</b></br> in XAMK un
 
 <img src="https://img.shields.io/badge/Git-7B68EE?style=for-the-badge&logo=Git&logoColor=fff"/> <img src="https://img.shields.io/badge/GitHub-7B68EE?style=for-the-badge&logo=GitHub&logoColor=fff"/><br/>
 
-<img src="https://img.shields.io/badge/jest-7B68EE?style=for-the-badge&logo=jest&logoColor=fff"/><br/><br/>
+<img src="https://img.shields.io/badge/jest-7B68EE?style=for-the-badge&logo=jest&logoColor=fff"/> <img src="https://img.shields.io/badge/Testing Library-7B68EE?style=for-the-badge&logo=Testing Library&logoColor=fff"/><br/><br/>
 
 ### Tools I use: 
 <img src="https://img.shields.io/badge/phpstorm-7B68EE?style=for-the-badge&logo=phpstorm&logoColor=fff"/> <img src="https://img.shields.io/badge/photoshop-7B68EE?style=for-the-badge&logo=Adobe Photoshop&logoColor=fff"/> <img src="https://img.shields.io/badge/Figma-7B68EE?style=for-the-badge&logo=Figma&logoColor=fff"/>
 </br></br>
 ### I’m currently learning:
- <img src="https://img.shields.io/badge/Testing Library-7B68EE?style=for-the-badge&logo=Testing Library&logoColor=fff"/>
-</br></br>
+ <img src="https://img.shields.io/badge/next.js-7B68EE?style=for-the-badge&logo=nextdotjs&logoColor=fff"/>
+</br>
 
 ### How to reach me: 
 <a href="mailto: arkadiy.shefer@gmail.com " target=”_blank”><img src="https://img.shields.io/badge/Gmail-7B68EE?style=for-the-badge&logo=Gmail&logoColor=fff"/></a> 
