@@ -8,7 +8,7 @@ Also doing my Bachelors in <b>Computer Science & Engineering</b></br> in XAMK un
 
 <img src="https://img.shields.io/badge/js-7B68EE?style=for-the-badge&logo=JavaScript&logoColor=fff"/> <img src="https://img.shields.io/badge/react-7B68EE?style=for-the-badge&logo=React&logoColor=fff"/> <img src="https://img.shields.io/badge/redux-7B68EE?style=for-the-badge&logo=Redux&logoColor=fff"/> <img src="https://img.shields.io/badge/TypeScript-7B68EE?style=for-the-badge&logo=TypeScript&logoColor=fff"/> </br>
 
-<img src="https://img.shields.io/badge/php-7B68EE?style=for-the-badge&logo=php&logoColor=fff"/> <img src="https://img.shields.io/badge/WordPress-7B68EE?style=for-the-badge&logo=WordPress&logoColor=fff"/> <img src="https://img.shields.io/badge/MySql-7B68EE?style=for-the-badge&logo=MySql&logoColor=fff"/></br>
+<img src="https://img.shields.io/badge/php-7B68EE?style=for-the-badge&logo=php&logoColor=fff"/> <img src="https://img.shields.io/badge/WordPress-7B68EE?style=for-the-badge&logo=WordPress&logoColor=fff"/> <img src="https://img.shields.io/badge/MySql-7B68EE?style=for-the-badge&logo=MySql&logoColor=fff"/> <img src="https://img.shields.io/badge/php-7B68EE?style=for-the-badge&logo=nodejs&logoColor=fff"/></br>
 
 <img src="https://img.shields.io/badge/Git-7B68EE?style=for-the-badge&logo=Git&logoColor=fff"/> <img src="https://img.shields.io/badge/GitHub-7B68EE?style=for-the-badge&logo=GitHub&logoColor=fff"/><br/>
 
