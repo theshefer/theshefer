@@ -1,5 +1,5 @@
 ### Hi there 👋
-👨‍💻I am Shefer Arkadii. Full-stack web Developer <br> 
+👨‍💻I am <b>Shefer Arkadii<b>. Full-stack web Developer <br> 
 I've been working as a freelancer for <b>2 years</b> <br>
 Also doing my Bachelors in <b>Computer Science & Engineering</b></br> in XAMK university, Mikkeli, Finland. 
 
