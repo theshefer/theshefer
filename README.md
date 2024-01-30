@@ -3,6 +3,8 @@
 I've been working as a freelancer for <b>2 years</b> <br>
 Also doing my Bachelors in <b>Computer Science & Engineering</b></br> in XAMK university, Mikkeli, Finland. 
 
+Founder of Wripet - check out my largest project on https://wripet.com
+
 ### Here is my techology stack:</br>
 <img src="https://img.shields.io/badge/Html-7B68EE?style=for-the-badge&logo=html5&logoColor=fff"/> <img src="https://img.shields.io/badge/BEM-7B68EE?style=for-the-badge&logo=Bem&logoColor=fff"/> <img src="https://img.shields.io/badge/css-7B68EE?style=for-the-badge&logo=css3&logoColor=fff"/> <img src="https://img.shields.io/badge/sass-7B68EE?style=for-the-badge&logo=sass&logoColor=fff"/> <img src="https://img.shields.io/badge/Bootstrap-7B68EE?style=for-the-badge&logo=Bootstrap&logoColor=fff"/> </br>
 
