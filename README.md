@@ -35,5 +35,5 @@ Also doing my Bachelors in <b>Computer Science & Engineering</b></br> in XAMK un
 ### How to reach me: 
 <a href="mailto: arkadiy.shefer@gmail.com " target=”_blank”><img src="https://img.shields.io/badge/Gmail-7B68EE?style=for-the-badge&logo=Gmail&logoColor=fff"/></a> 
 <a href="https://www.linkedin.com/in/arkadii-shefer-643434262/ " target=”_blank”><img src="https://img.shields.io/badge/LinkedIn-7B68EE?style=for-the-badge&logo=LinkedIn&logoColor=fff"/>  </a>
-<a href="https://t.me/sssshefer" target=”_blank”><img src="https://img.shields.io/badge/Telegram-7B68EE?style=for-the-badge&logo=Telegram&logoColor=fff"/></a></br>
+<a href="https://t.me/sheefeer" target=”_blank”><img src="https://img.shields.io/badge/Telegram-7B68EE?style=for-the-badge&logo=Telegram&logoColor=fff"/></a></br>
 (Click on the icon)
