@@ -12,7 +12,7 @@ I've been working as a  <b>freelancer for 2 years</b> <br><br>
 
 <img src="https://img.shields.io/badge/php-7B68EE?style=for-the-badge&logo=php&logoColor=fff"/> <img src="https://img.shields.io/badge/WordPress-7B68EE?style=for-the-badge&logo=WordPress&logoColor=fff"/> <img src="https://img.shields.io/badge/MySql-7B68EE?style=for-the-badge&logo=MySql&logoColor=fff"/> </br>
 
-<img src="https://img.shields.io/badge/Node.js-7B68EE?style=for-the-badge&logo=Node.js&logoColor=fff"/> <img src="https://img.shields.io/badge/express-7B68EE?style=for-the-badge&logo=express&logoColor=fff"/> <img src="https://img.shields.io/badge/jwt-7B68EE?style=for-the-badge&logo=jwt&logoColor=fff"/></br>
+<img src="https://img.shields.io/badge/Node.js-7B68EE?style=for-the-badge&logo=Node.js&logoColor=fff"/> <img src="https://img.shields.io/badge/express-7B68EE?style=for-the-badge&logo=express&logoColor=fff"/></br>
 
 <img src="https://img.shields.io/badge/MongoDb-7B68EE?style=for-the-badge&logo=MongoDB&logoColor=fff"/> <img src="https://img.shields.io/badge/mongoose-7B68EE?style=for-the-badge&logo=mongoosedotws&logoColor=fff"/><br/><br/>
 
