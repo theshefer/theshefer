@@ -17,7 +17,7 @@ I've been working as a  <b>freelancer for 2 years</b> <br><br>
 <img src="https://img.shields.io/badge/MongoDb-7B68EE?style=for-the-badge&logo=MongoDB&logoColor=fff"/> <img src="https://img.shields.io/badge/mongoose-7B68EE?style=for-the-badge&logo=mongoosedotws&logoColor=fff"/><br/><br/>
 
 <img src="https://img.shields.io/badge/Git-7B68EE?style=for-the-badge&logo=Git&logoColor=fff"/> <img src="https://img.shields.io/badge/GitHub-7B68EE?style=for-the-badge&logo=GitHub&logoColor=fff"/> <img src="https://img.shields.io/badge/GitHub Actions-7B68EE?style=for-the-badge&logo=GitHub-Actions&logoColor=fff"/><br/> 
-<img src="https://img.shields.io/badge/jest-7B68EE?style=for-the-badge&logo=jest&logoColor=fff"/> <img src="https://img.shields.io/badge/Testing Library-7B68EE?style=for-the-badge&logo=Testing Library&logoColor=fff"/><br/><br/>
+<img src="https://img.shields.io/badge/jest-7B68EE?style=for-the-badge&logo=jest&logoColor=fff"/> <img src="https://img.shields.io/badge/Testing Library-7B68EE?style=for-the-badge&logo=Testing Library&logoColor=fff"/> <img src="https://img.shields.io/badge/Docker-7B68EE?style=for-the-badge&logo=Docker&logoColor=fff"/><br/><br/>
 
 <img src="https://img.shields.io/badge/ubuntu-7B68EE?style=for-the-badge&logo=MongoDB&logoColor=fff"/> <img src="https://img.shields.io/badge/nginx-7B68EE?style=for-the-badge&logo=nginx&logoColor=fff"/> <br/><br/>
 
