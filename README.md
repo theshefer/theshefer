@@ -1,7 +1,6 @@
 ### Hi there 👋
 👨‍💻I am <b>Shefer Arkadii</b>. <b>Full-stack web Developer</b> <br>
-I've been working as a  <b>freelancer for 2 years</b> <br><br>
-🏫 Also doing my Bachelors in <b>Computer Science & Engineering</b></br> in XAMK university, Mikkeli, Finland. 
+🏫 I am doing my Bachelors in <b>Computer Science & Engineering</b></br> in XAMK university, Mikkeli, Finland. 
 
 🚀 Founder of <b>Wripet</b> - check out my largest project on <a href="https://wripet.com"> wripet.com</a>
 
