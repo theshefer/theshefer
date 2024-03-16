@@ -2,7 +2,7 @@
 👨‍💻I am <b>Shefer Arkadii</b>. <b>Full-stack web Developer</b> <br>
 🏫 I am doing my Bachelors in <b>Computer Science & Engineering</b></br> in XAMK university, Mikkeli, Finland. 
 
-🚀 Founder of <b>Wripet</b> - check out my largest project on <a href="https://wripet.com"> wripet.com</a>
+🚀 Creator of <b>Wripet</b> - check out on <a href="https://wripet.com"> wripet.com</a>
 
 ### Here is my tech stack:</br>
 <img src="https://img.shields.io/badge/Html-7B68EE?style=for-the-badge&logo=html5&logoColor=fff"/> <img src="https://img.shields.io/badge/BEM-7B68EE?style=for-the-badge&logo=Bem&logoColor=fff"/> <img src="https://img.shields.io/badge/css-7B68EE?style=for-the-badge&logo=css3&logoColor=fff"/> <img src="https://img.shields.io/badge/sass-7B68EE?style=for-the-badge&logo=sass&logoColor=fff"/> <img src="https://img.shields.io/badge/Bootstrap-7B68EE?style=for-the-badge&logo=Bootstrap&logoColor=fff"/> </br>
