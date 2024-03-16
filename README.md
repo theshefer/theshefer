@@ -3,8 +3,8 @@
 🏫 I am doing my Bachelor's in <b>Computer Science & Engineering</b></br> in XAMK university, Mikkeli, Finland. 
 
 🚀 Creator of <b>Wripet</b> - check it out at [wripet.com](https://wripet.com/)
-</br></br>
-## Here is my preferred tech stack
+</br>
+## Here is my preferred stack
 ### - Frontend
  <img height="60" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> <img height="60" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"> <img height="60" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"> <img height="60" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"> 
 </br>
