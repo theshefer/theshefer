@@ -1,4 +1,4 @@
-## 👋 Hello there 
+##  Hello there 👋
 👨‍💻 <b>I am Shefer Arkadii</b></br> <b>Full-stack web Developer</b> <br><br>
 🏫 I am doing my Bachelors in <b>Computer Science & Engineering</b></br> in XAMK university, Mikkeli, Finland. 
 
