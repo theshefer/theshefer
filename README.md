@@ -26,7 +26,7 @@
 <img height="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png">
 </br>
 
-## - How to reach me
+## How to reach me
 <a href="mailto: arkadiy.shefer@gmail.com " target=”_blank”><img src="https://img.shields.io/badge/Gmail-7B68EE?style=for-the-badge&logo=Gmail&logoColor=fff"/></a> 
 <a href="https://www.linkedin.com/in/arkadii-shefer-643434262/ " target=”_blank”><img src="https://img.shields.io/badge/LinkedIn-7B68EE?style=for-the-badge&logo=LinkedIn&logoColor=fff"/>  </a>
 <a href="https://t.me/sheefeer" target=”_blank”><img src="https://img.shields.io/badge/Telegram-7B68EE?style=for-the-badge&logo=Telegram&logoColor=fff"/></a></br>
