@@ -26,7 +26,7 @@
 | **Jest** | **Webpack** | **Docker and Docker-compose** | **Linux** | **NGINX** | **GitHub CD/CI** | **Playwright** |
 
 
-### I have also used
+### - I have also used
 
 | <img height="60" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png"> | <img height="60" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627"> |
 |:---:|:---:|:---:|
