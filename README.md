@@ -4,8 +4,11 @@
 
 🚀 Creator of <b>Wripet</b> - check it out at [wripet.com](https://wripet.com/)
 </br>
+
 ## Here is my preferred stack
+
 ### - Frontend
+
 | <img height="60" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"> |
 |:---:|:---:|:---:| :---: |
 | **JavaScript** | **React** | **TypeScript** | **Redux** |
@@ -23,17 +26,29 @@
 | **Jest** | **Webpack** | **Docker and Docker-compose** | **Linux** | **NGINX** | **GitHub CD/CI** | **Playwright** |
 
 
-### - I have also used
-<img height="60" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf"> <img height="60" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png"> <img height="60" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627"> 
+### I have also used
+
+| <img height="60" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png"> | <img height="60" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627"> |
+|:---:|:---:|:---:|
+| **PHP** | **Wordpress** | **Arduino** |
+
+
 
 
 ## Tools I use
-<img height="50" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png">
+
+| <img height="50" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png"> | <img height="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"> | <img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"> |
+|:---:|:---:|:---:|
+| **WebStorm** | **Figma** | **Postman** |
+
 
 
 ## I’m currently learning:
-<img height="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png">
-</br>
+
+| <img height="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"> |
+|:---:|
+| **Reddis** |
+
 
 ## How to reach me
 <a href="mailto: arkadiy.shefer@gmail.com " target=”_blank”><img src="https://img.shields.io/badge/Gmail-7B68EE?style=for-the-badge&logo=Gmail&logoColor=fff"/></a> 
