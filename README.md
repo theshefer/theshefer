@@ -1,5 +1,5 @@
 ##  Hello there 👋
-👨‍💻 <b>I am Shefer Arkadii</b></br> <b>Full-stack web Developer in Finland</b> <br><br>
+👨‍💻 <b>I am Shefer Arkadii, </b></br> <b>Full-stack web Developer in Finland</b> <br><br>
 🏫 I am doing my last year of Bachelor's in <b>Computer Science & Engineering</b></br> at XAMK university, Mikkeli, Finland. 
 
 🚀 Creator of <b>Wripet</b> - check it out at [wripet.com](https://wripet.com/)
