@@ -15,9 +15,9 @@
 
 ### - Backend
 
-| <img height="60" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"> | <img height="60" src="https://repository-images.githubusercontent.com/218583345/a93f3b00-fcf2-11ea-9d6c-0cff33b7564d"> |
-|:---:|:---:|:---:|:---:|:---:|
-| **Node.js** | **Express.js** | **MySQL** | **MongoDB** | **Motoko**|
+| <img height="60" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"> | 
+|:---:|:---:|:---:|:---:|
+| **Node.js** | **Express.js** | **MySQL** | **MongoDB** |
 
 ### - Other
 
@@ -28,9 +28,9 @@
 
 ### - I have also used
 
-| <img height="60" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png"> | <img height="60" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627"> |
-|:---:|:---:|:---:|
-| **PHP** | **Wordpress** | **Arduino** |
+| <img height="60" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png"> | <img height="60" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627"> |<img height="60" src="https://repository-images.githubusercontent.com/218583345/a93f3b00-fcf2-11ea-9d6c-0cff33b7564d"> |
+|:---:|:---:|:---:|:---:|
+| **PHP** | **Wordpress** | **Arduino** | **Motoko**|
 
 
 
