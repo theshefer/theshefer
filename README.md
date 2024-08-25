@@ -2,7 +2,7 @@
 👨‍💻 <b>I am Shefer Arkadii, </b></br> <b>Full-stack Blockchain Web Developer in Finland</b> <br><br>
 🏫 I am doing my last year of Bachelor's in <b>Computer Science & Engineering</b></br> at XAMK university, Mikkeli, Finland. 
 
-🚀 Creator of <b>Wripet</b> - check it out at [wripet.com](https://wripet.com/)
+🚀 Creator of <b>Wripet</b> - check it out at [wripet.dev](https://wripet.dev/)
 </br>
 
 ## Here is my preferred stack
