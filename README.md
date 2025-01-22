@@ -1,6 +1,6 @@
 ##  Hello there 👋
-👨‍💻 <b>I am Arkadii Shefer, </b></br> <b>Full-stack Blockchain Web Developer in Finland</b> <br><br>
-🏫 I am doing my last year of Bachelor's in <b>Computer Science & Engineering</b></br> at XAMK university, Mikkeli, Finland. 
+👨‍💻 <b>I am Arkadii Shefer, </b></br> <b>Software Developer residing in Finland</b> <br><br>
+🏫 Finished my Bachelor's in <b>Computer Science & Engineering</b></br> at XAMK university, Mikkeli, Finland. 
 
 🚀 Creator of <b>Wripet</b> - check it out at [wripet.dev](https://wripet.dev/)
 </br>
@@ -9,15 +9,15 @@
 
 ### - Frontend
 
-| <img height="60" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"> | <img height="60" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"> |
-|:---:|:---:|:---:| :---: | :---: |
-| **JavaScript** | **React** | **TypeScript** | **Redux** | **Next.js** |
+| <img height="60" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"> | <img height="60" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"> |
+|:---:|:---:| :---: | :---: |
+ | **TypeScript** | **React** | **Redux** | **Next.js** |
 
 ### - Backend
 
-| <img height="60" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"> |  <img height="60" src="https://github.com/sssshefer/sssshefer/assets/63253440/2bbb5012-6bdc-47d0-b02f-046ca3d6a173">|
-|:---:|:---:|:---:|:---:|:---:|
-| **Node.js** | **Express.js** | **MySQL** | **MongoDB** | **Solidity** |
+| <img height="60" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"> | <img height="60" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"> |  <img height="60" src="https://github.com/sssshefer/sssshefer/assets/63253440/2bbb5012-6bdc-47d0-b02f-046ca3d6a173">|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+ | **TypeScript**| **Node.js** | **Express.js** | **MySQL** | **MongoDB** | **Solidity** |
 
 ### - Other
 
@@ -43,15 +43,16 @@
 
 
 
-## I’m currently learning:
+<!-- ## I’m currently learning:
 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"> |
 |:---:|
-| **Reddis** |
+| **Reddis** | -->
 
 
 ## How to reach me
 <a href="mailto: arkadiy.shefer@gmail.com " target=”_blank”><img src="https://img.shields.io/badge/Gmail-7B68EE?style=for-the-badge&logo=Gmail&logoColor=fff"/></a> 
-<a href="https://www.linkedin.com/in/arkadii-shefer-643434262/ " target=”_blank”><img src="https://img.shields.io/badge/LinkedIn-7B68EE?style=for-the-badge&logo=LinkedIn&logoColor=fff"/>  </a>
+<a href="https://www.linkedin.com/in/arkadii-shefer-643434262/ " target=”_blank”><img src="https://img.shields.io/badge/LinkedIn-7B68EE?style=for-the-badge&logo=linkedin&logoColor=fff"/>  </a>
 <a href="https://t.me/sheefeer" target=”_blank”><img src="https://img.shields.io/badge/Telegram-7B68EE?style=for-the-badge&logo=Telegram&logoColor=fff"/></a></br>
+
 (Click on the icon)
