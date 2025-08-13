@@ -1,5 +1,5 @@
 ##  Hello there 👋
-👨‍💻 <b>I am Arkadii Shefer, </b></br> <b>Software Developer residing in Finland</b> <br><br>
+👨‍💻 <b>I am Arkadii Shefer, </b></br> <b>Software Developer residing in Berlin, Germany</b> <br><br>
 🏫 Finished my Bachelor's in <b>Computer Science & Engineering</b></br> at XAMK university, Mikkeli, Finland. 
 
 🚀 Creator of <b>Wripet</b> - check it out at [wripet.dev](https://wripet.dev/)
