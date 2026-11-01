@@ -2,7 +2,6 @@
 👨‍💻 <b>I am Arkadii Shefer, </b></br> <b>Software Developer residing in Berlin, Germany</b> <br><br>
 🏫 Finished my Bachelor's in <b>Computer Science & Engineering</b></br> at XAMK university, Mikkeli, Finland. 
 
-🚀 Creator of <b>Wripet</b> - check it out at [wripet.dev](https://wripet.dev/)
 </br>
 
 ## Here is my preferred stack
@@ -34,25 +33,8 @@
 
 
 
-
-## Most used tools
-
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png"> |  <img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"> | <img height="50" src="https://github.com/sssshefer/sssshefer/assets/63253440/0b9bb0e8-cdc3-4148-b2ef-d2b47409a2aa"> | <img height="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"> |
-|:---:|:---:|:---:|:---:|
-| **WebStorm** | **Postman** | **Remix** | **Figma** |
-
-
-
-<!-- ## I’m currently learning:
-
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"> |
-|:---:|
-| **Reddis** | -->
-
-
 ## How to reach me
 <a href="mailto: arkadiy.shefer@gmail.com " target=”_blank”><img src="https://img.shields.io/badge/Gmail-7B68EE?style=for-the-badge&logo=Gmail&logoColor=fff"/></a> 
 <a href="https://www.linkedin.com/in/arkadii-shefer-643434262/ " target=”_blank”><img src="https://img.shields.io/badge/LinkedIn-7B68EE?style=for-the-badge&logo=linkedin&logoColor=fff"/>  </a>
-<a href="https://t.me/sheefeer" target=”_blank”><img src="https://img.shields.io/badge/Telegram-7B68EE?style=for-the-badge&logo=Telegram&logoColor=fff"/></a></br>
 
 (Click on the icon)
